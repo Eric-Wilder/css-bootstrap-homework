@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+h1 {
+    color: #71eeb8;
+}
+
+footer {
+    text-align: center;
+    background-color: #71eeb8;
+    color: #fff;
+    margin-top: auto;
+    margin-top: 15%;
+   
+}
